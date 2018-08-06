@@ -15,4 +15,3 @@ For all my experiment, I at the moment use a dedicated server having the followi
 ## Current hosted services
 - [ ] Docker
 - [ ] Transmission
-- [ ] 
