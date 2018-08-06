@@ -1,0 +1,36 @@
+[
+{
+	"uri": "//localhost:1313/blabla/",
+	"title": "Blablas",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "//localhost:1313/blabla/page-2/",
+	"title": "Index",
+	"tags": [],
+	"description": "",
+	"content": " Hello world ! The goal of the pages are to remember for myself what I did with my dedicated server. They will be planty of pages and crashed, always feel free to message me.\nKimsufi KS-3C For all my experiment, I at the moment use a dedicated server having the following configuration :\n- i3-2130 - 8GB - 2To - Ubuntu Server 18.04 \u0026quot;Bionic Beaver\u0026quot; LTS (64bits)  Current hosted services Docker Transmission  "
+},
+{
+	"uri": "//localhost:1313/",
+	"title": "Index",
+	"tags": [],
+	"description": "",
+	"content": " Hello world ! The goal of the pages are to remember for myself what I did with my dedicated server. They will be planty of pages and crashed, always feel free to message me.\nKimsufi KS-3C For all my experiment, I at the moment use a dedicated server having the following configuration :\n- i3-2130 - 8GB - 2To - Ubuntu Server 18.04 \u0026quot;Bionic Beaver\u0026quot; LTS (64bits)  Current hosted services Docker Transmission  "
+},
+{
+	"uri": "//localhost:1313/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
